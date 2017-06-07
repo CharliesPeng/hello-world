@@ -3,4 +3,4 @@ This is my first repository
 
 Hi humans!
 
-I like machine learning!
+I am Xun Peng. A graduate student have great passion for programming!
